@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Dilip V
+#  Hi, I'm Dilip V
 
 ### Software Engineer by Education • Explorer by Mindset • Builder by Passion
 
@@ -12,7 +12,7 @@ I believe in learning by building, experimenting, and sharing.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
 <a href="https://dilip-velayutham.web.app" target="_blank">
@@ -30,7 +30,7 @@ I believe in learning by building, experimenting, and sharing.
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Programming Languages
 
@@ -73,9 +73,9 @@ I believe in learning by building, experimenting, and sharing.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🎉 Evento
+##  Evento
 ### Cloud-Native Event Management System
 
 - Event-driven architecture
@@ -85,7 +85,7 @@ I believe in learning by building, experimenting, and sharing.
 
 ---
 
-## 🗳️ Poll Booth
+##  Poll Booth
 ### Blockchain-Based E-Voting System
 
 - Blockchain-powered voting
@@ -95,7 +95,7 @@ I believe in learning by building, experimenting, and sharing.
 
 ---
 
-## 🚨 ResQ Tech
+##  ResQ Tech
 ### Smart Accident Detection & Alert System
 
 - IoT-based accident detection
@@ -105,21 +105,21 @@ I believe in learning by building, experimenting, and sharing.
 
 ---
 
-# 🏆 Achievements
+#  Achievements
 
-🥇 Top 100 Finalist — Google Hacknexa Hackathon 2025
+ Top 100 Finalist — Google Hacknexa Hackathon 2025
 
-📜 German Language Certification (A1)
+ German Language Certification (A1)
 
-📜 Flutter Masterclass Certification
+ Flutter Masterclass Certification
 
-📚 Strong foundation in Data Structures & Algorithms
+ Strong foundation in Data Structures & Algorithms
 
 ☁️ AWS Cloud Practitioner & Cloud Projects
 
 ---
 
-# 📈 Coding Profiles
+#  Coding Profiles
 
 <p align="left">
 <a href="https://leetcode.com/">
@@ -137,7 +137,7 @@ I believe in learning by building, experimenting, and sharing.
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - Advanced Java Development
 - AWS Cloud Engineering
@@ -148,25 +148,25 @@ I believe in learning by building, experimenting, and sharing.
 
 ---
 
-# 🎯 2026 Goals
+#  2026 Goals
 
-✅ Strengthen DSA & Problem Solving
+ Strengthen DSA & Problem Solving
 
-✅ Build Production-Level Cloud Projects
+ Build Production-Level Cloud Projects
 
-✅ Contribute to Open Source
+ Contribute to Open Source
 
-✅ Launch Freelancing Journey
+ Launch Freelancing Journey
 
-✅ Grow Personal Brand
+ Grow Personal Brand
 
-✅ Reach German B1 Level
+ Reach German B1 Level
 
-✅ Become a Well-Rounded Technologist & Explorer
+ Become a Well-Rounded Technologist & Explorer
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=DilipVelayutham&show_icons=true&theme=tokyonight)
 
@@ -176,7 +176,7 @@ I believe in learning by building, experimenting, and sharing.
 
 ---
 
-# ✨ A Little About Me
+#  A Little About Me
 
 ```java
 class Dilip {
@@ -204,10 +204,10 @@ class Dilip {
 
 ---
 
-## 💡 Personal Motto
+##  Personal Motto
 
 > Build. Learn. Explore. Repeat.
 
 > Every project teaches something. Every experience shapes something.
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
