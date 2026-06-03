@@ -1,4 +1,4 @@
-# Hello All, I'm Dilip Velayutham
+# Hi, I'm Dilip V
 ## Cloud + Software Engineer (In Progress)
 
 Second-year Computer Science Engineering student specializing in Cloud Computing with honors in Artificial Intelligence.
@@ -15,12 +15,12 @@ Second-year Computer Science Engineering student specializing in Cloud Computing
 
 ### Evento
 Cloud-Native Event Management System
-
 ### Poll Booth
 Blockchain-Based E-Voting System with Zero-Knowledge Proofs
-
 ### ResQ Tech
 Smart Accident Detection & Emergency Alert System
+### Sentry Pay
+Cognitive Multilayer Fraud Preventing Payment System
 
 ## Currently Learning
 
@@ -35,6 +35,7 @@ Smart Accident Detection & Emergency Alert System
 
 - Portfolio: https://dilip-velayutham.web.app
 - LinkedIn: https://linkedin.com/in/dilipvelayutham
+- Blog: theDv-logs.blogspot.com
 - Email: dilipvelayutham917@gmail.com
 
 ## Motto
