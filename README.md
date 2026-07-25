@@ -1,4 +1,4 @@
-# Hi, I'm Dilip V
+# Hi, I'm Dilip Velayutham
 ## Cloud + Software Engineer (In Progress)
 
 Second-year Computer Science Engineering student specializing in Cloud Computing with honors in Artificial Intelligence.
